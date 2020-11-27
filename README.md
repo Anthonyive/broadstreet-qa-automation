@@ -6,6 +6,10 @@
 
  One thing that needs to be done is commenting on cells.
 
+# Authentication
+
+Please refer to [gspread documention](https://gspread.readthedocs.io/en/latest/oauth2.html#enable-api-access-for-a-project) and use OAuth Client ID.
+
 # How to run it
 
 - Run through `Main.ipynb` until it says `Main Program`.
