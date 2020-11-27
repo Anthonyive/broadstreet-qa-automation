@@ -40,7 +40,7 @@ conda-build==3.18.11
 conda-package-handling @ file:///opt/concourse/worker/volumes/live/a7e34989-4c54-4cb6-4156-4e58ee270730/volume/conda-package-handling_1603018121300/work
 conda-verify==3.4.2
 contextlib2==0.6.0.post1
-cryptography==2.9.2
+cryptography==3.2
 cycler==0.10.0
 Cython @ file:///opt/concourse/worker/volumes/live/6158b663-a4ca-4e19-7e05-8807e4f79146/volume/cython_1594835048880/work
 cytoolz==0.10.1
