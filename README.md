@@ -1,5 +1,5 @@
 # Broad-Street-QA-Automation
- This is a automation of Quality Assurance track for Mountains (Minnesota, North Dakota) in BroadStreet.io. Run the main program on the bottom. Program will ask you the state you want to work on and then it will help you find the date you can work on. 
+ This is a automation of Quality Assurance track for Mountains in BroadStreet.io. Run the main program on the bottom. Program will ask you the state you want to work on and then it will help you find the date you can work on. 
 
 ## Main.ipynb
  This is main program file. Notice that one may need a credential from console.google.com and datasets on your hand for this to work.
