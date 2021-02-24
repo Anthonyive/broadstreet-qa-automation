@@ -1,4 +1,7 @@
 # Broad-Street-QA-Automation
+
+Note: This is repo is archieved and read-only since it's no longer in use.
+
  This is a automation of Quality Assurance track for Mountains in BroadStreet.io. Run the main program on the bottom. Program will ask you the state you want to work on and then it will help you find the date you can work on. 
 
 ## Main.ipynb
